@@ -1,0 +1,15 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width:0;height:0;visibility:hidden;">
+   <defs/>
+   <symbol id="rd-icon-spotter" viewBox="0 0 48 48" fill="black">
+      <g id="_1E_Intelligence" data-name="1E Intelligence" transform="translate(-700 -2487)">
+        <rect id="Rectangle_12549" data-name="Rectangle 12549" width="200" height="200" transform="translate(700 2487)" fill="none"/>
+        <g id="Group_21686" data-name="Group 21686" transform="translate(724 2504)">
+          <path id="Path_35151" data-name="Path 35151" d="M0,66.813l49.263,37.354,74.119-44.381L75.893,22.951Z" transform="translate(0 62.782)" fill="#f8c3a5"/>
+          <path id="Path_35152" data-name="Path 35152" d="M0,102.62l49.263,37.354V47.216L0,9.861Z" transform="translate(0 26.975)" fill="#ed681e"/>
+          <path id="Path_35153" data-name="Path 35153" d="M27.446,0V92.758l49.263,37.354V37.354Z" transform="translate(75.076 0)" fill="#ed681e"/>
+          <path id="Path_35154" data-name="Path 35154" d="M81.719,0,7.6,44.381,55.089,81.216l75.893-43.862Z" transform="translate(20.802 0)" fill="#f8c3a5"/>
+        </g>
+      </g>
+   </symbol>
+</svg>
